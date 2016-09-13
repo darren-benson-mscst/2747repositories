@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace dbenson2747ex1c.Properties {
+namespace dbenson2747ex1d.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
@@ -27,7 +27,7 @@ namespace dbenson2747ex1c.Properties {
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
         [global::System.Configuration.DefaultSettingValueAttribute("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\\AdventureWork" +
-            "s2014(2)_Data.mdf;Integrated Security=True")]
+            "s2014_Data.mdf;Integrated Security=True")]
         public string AdventureWorksConnectionString {
             get {
                 return ((string)(this["AdventureWorksConnectionString"]));

@@ -4,14 +4,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C898CE29-CF3F-4E59-A022-5C06645732D9}</ProjectGuid>
+    <ProjectGuid>{93382BF7-6473-4926-9B17-9DF66643323B}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>dbenson2747ex1c</RootNamespace>
-    <AssemblyName>dbenson2747ex1c</AssemblyName>
+    <RootNamespace>dbenson2747ex1d</RootNamespace>
+    <AssemblyName>dbenson2747ex1d</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
     <PublishUrl>publish\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
@@ -24,7 +25,6 @@
     <MapFileExtensions>true</MapFileExtensions>
     <ApplicationRevision>0</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
-    <IsWebBootstrapper>false</IsWebBootstrapper>
     <UseApplicationTrust>false</UseApplicationTrust>
     <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
@@ -61,10 +61,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AdventureWorksDataSet.Designer.cs">
+    <Compile Include="AdventureWorks2014_DataDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>AdventureWorksDataSet.xsd</DependentUpon>
+      <DependentUpon>AdventureWorks2014_DataDataSet.xsd</DependentUpon>
     </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
@@ -86,16 +86,16 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <None Include="AdventureWorksDataSet.xsc">
-      <DependentUpon>AdventureWorksDataSet.xsd</DependentUpon>
+    <None Include="AdventureWorks2014_DataDataSet.xsc">
+      <DependentUpon>AdventureWorks2014_DataDataSet.xsd</DependentUpon>
     </None>
-    <None Include="AdventureWorksDataSet.xsd">
+    <None Include="AdventureWorks2014_DataDataSet.xsd">
       <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>AdventureWorksDataSet.Designer.cs</LastGenOutput>
+      <LastGenOutput>AdventureWorks2014_DataDataSet.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </None>
-    <None Include="AdventureWorksDataSet.xss">
-      <DependentUpon>AdventureWorksDataSet.xsd</DependentUpon>
+    <None Include="AdventureWorks2014_DataDataSet.xss">
+      <DependentUpon>AdventureWorks2014_DataDataSet.xsd</DependentUpon>
     </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -111,15 +111,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="AdventureWorks2014%282%29_Data.mdf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="AdventureWorks2014%282%29_Data_log.ldf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      <DependentUpon>AdventureWorks2014%282%29_Data.mdf</DependentUpon>
-    </Content>
-  </ItemGroup>
-  <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
       <Visible>False</Visible>
       <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
@@ -130,6 +121,9 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AdventureWorks2014_Data.mdf" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
