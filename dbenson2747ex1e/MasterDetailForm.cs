@@ -22,8 +22,12 @@ namespace dbenson2747ex1e
         {
             this.Validate();
             try {
+                //used to ensure that both tables save correctly if changes are made
+                this.purchaseOrderDetailBindingSource.EndEdit();
                 this.purchaseOrderHeaderBindingSource.EndEdit();
-                this.tableAdapterManager.UpdateAll(this.adventureWorksDataSet);
+                this.purchaseOrderDetailTableAdapter.Update(this.adventureWorksDataSet.PurchaseOrderDetail);
+                this.purchaseOrderHeaderTableAdapter.Update(this.adventureWorksDataSet.PurchaseOrderHeader);
+                //this.tableAdapterManager.UpdateAll(this.adventureWorksDataSet);
             }
             catch (SqlException ex)
             {
