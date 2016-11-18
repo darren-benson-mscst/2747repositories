@@ -1,0 +1,9 @@
+C:\Users\Darren\Documents\HomeWorkFall2016\COMC2747 DB Applications\2747dbensonVS\dbenson2747ex2c\bin\Debug\dbenson2747ex2c.exe.config
+C:\Users\Darren\Documents\HomeWorkFall2016\COMC2747 DB Applications\2747dbensonVS\dbenson2747ex2c\bin\Debug\dbenson2747ex2c.exe
+C:\Users\Darren\Documents\HomeWorkFall2016\COMC2747 DB Applications\2747dbensonVS\dbenson2747ex2c\bin\Debug\dbenson2747ex2c.pdb
+C:\Users\Darren\Documents\HomeWorkFall2016\COMC2747 DB Applications\2747dbensonVS\dbenson2747ex2c\obj\Debug\dbenson2747ex2c.csprojResolveAssemblyReference.cache
+C:\Users\Darren\Documents\HomeWorkFall2016\COMC2747 DB Applications\2747dbensonVS\dbenson2747ex2c\obj\Debug\dbenson2747ex2c.Form1.resources
+C:\Users\Darren\Documents\HomeWorkFall2016\COMC2747 DB Applications\2747dbensonVS\dbenson2747ex2c\obj\Debug\dbenson2747ex2c.Properties.Resources.resources
+C:\Users\Darren\Documents\HomeWorkFall2016\COMC2747 DB Applications\2747dbensonVS\dbenson2747ex2c\obj\Debug\dbenson2747ex2c.csproj.GenerateResource.Cache
+C:\Users\Darren\Documents\HomeWorkFall2016\COMC2747 DB Applications\2747dbensonVS\dbenson2747ex2c\obj\Debug\dbenson2747ex2c.exe
+C:\Users\Darren\Documents\HomeWorkFall2016\COMC2747 DB Applications\2747dbensonVS\dbenson2747ex2c\obj\Debug\dbenson2747ex2c.pdb
