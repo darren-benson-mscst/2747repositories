@@ -1,0 +1,7 @@
+C:\Users\Darren\Documents\HomeWorkFall2016\COMC2747 DB Applications\2747dbensonVS\dbenson2747ex2d_dbmapper\bin\Debug\AdventureWorks2014_Data.mdf
+C:\Users\Darren\Documents\HomeWorkFall2016\COMC2747 DB Applications\2747dbensonVS\dbenson2747ex2d_dbmapper\bin\Debug\dbenson2747ex2d_dbmapper.dll.config
+C:\Users\Darren\Documents\HomeWorkFall2016\COMC2747 DB Applications\2747dbensonVS\dbenson2747ex2d_dbmapper\bin\Debug\dbenson2747ex2d_dbmapper.dll
+C:\Users\Darren\Documents\HomeWorkFall2016\COMC2747 DB Applications\2747dbensonVS\dbenson2747ex2d_dbmapper\bin\Debug\dbenson2747ex2d_dbmapper.pdb
+C:\Users\Darren\Documents\HomeWorkFall2016\COMC2747 DB Applications\2747dbensonVS\dbenson2747ex2d_dbmapper\obj\Debug\dbenson2747ex2d_dbmapper.dll
+C:\Users\Darren\Documents\HomeWorkFall2016\COMC2747 DB Applications\2747dbensonVS\dbenson2747ex2d_dbmapper\obj\Debug\dbenson2747ex2d_dbmapper.pdb
+C:\Users\Darren\Documents\HomeWorkFall2016\COMC2747 DB Applications\2747dbensonVS\dbenson2747ex2d_dbmapper\obj\Debug\dbenson2747ex2d_dbmapper.csprojResolveAssemblyReference.cache

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="dbenson2747ex2e_dbmapper.Address">
+    <Position X="3" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QBCAAAAAACAAAQAIIAEACCAAAgAAAAIAAAAAAEgQAAA=</HashCode>
+      <FileName>Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dbenson2747ex2e_dbmapper.AddressDB">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>AddressDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dbenson2747ex2e_dbmapper.VendorDB" Collapsed="true">
+    <Position X="6.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAEAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>VendorDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dbenson2747ex2e_dbmapper.Vendor">
+    <Position X="7.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEgAAEAAACABAQAAAAAACAQIAgoFAAICAAAAAAhJAAA=</HashCode>
+      <FileName>Vendor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
