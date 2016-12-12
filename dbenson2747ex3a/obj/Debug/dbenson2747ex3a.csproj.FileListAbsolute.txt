@@ -1,0 +1,17 @@
+C:\Users\Darren\Documents\HomeWorkFall2016\COMC2747 DB Applications\2747dbensonVS\dbenson2747ex3a\bin\Debug\dbenson2747ex3a.exe.config
+C:\Users\Darren\Documents\HomeWorkFall2016\COMC2747 DB Applications\2747dbensonVS\dbenson2747ex3a\bin\Debug\AdventureWorksEF.mdf
+C:\Users\Darren\Documents\HomeWorkFall2016\COMC2747 DB Applications\2747dbensonVS\dbenson2747ex3a\bin\Debug\AdventureWorksEF_log.ldf
+C:\Users\Darren\Documents\HomeWorkFall2016\COMC2747 DB Applications\2747dbensonVS\dbenson2747ex3a\bin\Debug\dbenson2747ex3a.exe
+C:\Users\Darren\Documents\HomeWorkFall2016\COMC2747 DB Applications\2747dbensonVS\dbenson2747ex3a\bin\Debug\dbenson2747ex3a.pdb
+C:\Users\Darren\Documents\HomeWorkFall2016\COMC2747 DB Applications\2747dbensonVS\dbenson2747ex3a\bin\Debug\dbenson2747ex3a_ef.dll
+C:\Users\Darren\Documents\HomeWorkFall2016\COMC2747 DB Applications\2747dbensonVS\dbenson2747ex3a\bin\Debug\EntityFramework.dll
+C:\Users\Darren\Documents\HomeWorkFall2016\COMC2747 DB Applications\2747dbensonVS\dbenson2747ex3a\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Darren\Documents\HomeWorkFall2016\COMC2747 DB Applications\2747dbensonVS\dbenson2747ex3a\bin\Debug\dbenson2747ex3a_ef.pdb
+C:\Users\Darren\Documents\HomeWorkFall2016\COMC2747 DB Applications\2747dbensonVS\dbenson2747ex3a\bin\Debug\EntityFramework.xml
+C:\Users\Darren\Documents\HomeWorkFall2016\COMC2747 DB Applications\2747dbensonVS\dbenson2747ex3a\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Darren\Documents\HomeWorkFall2016\COMC2747 DB Applications\2747dbensonVS\dbenson2747ex3a\obj\Debug\dbenson2747ex3a.csprojResolveAssemblyReference.cache
+C:\Users\Darren\Documents\HomeWorkFall2016\COMC2747 DB Applications\2747dbensonVS\dbenson2747ex3a\obj\Debug\dbenson2747ex3a.Form1.resources
+C:\Users\Darren\Documents\HomeWorkFall2016\COMC2747 DB Applications\2747dbensonVS\dbenson2747ex3a\obj\Debug\dbenson2747ex3a.Properties.Resources.resources
+C:\Users\Darren\Documents\HomeWorkFall2016\COMC2747 DB Applications\2747dbensonVS\dbenson2747ex3a\obj\Debug\dbenson2747ex3a.csproj.GenerateResource.Cache
+C:\Users\Darren\Documents\HomeWorkFall2016\COMC2747 DB Applications\2747dbensonVS\dbenson2747ex3a\obj\Debug\dbenson2747ex3a.exe
+C:\Users\Darren\Documents\HomeWorkFall2016\COMC2747 DB Applications\2747dbensonVS\dbenson2747ex3a\obj\Debug\dbenson2747ex3a.pdb
